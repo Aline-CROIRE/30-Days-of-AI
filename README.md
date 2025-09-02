@@ -11,7 +11,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 
 | Day | Topic | Link to Code |
 |:---:|:---|:---:|
-| 1 | Exploring a Real-World Dataset (EDA) | [Code](./Day_01/) |
+| 1 | Exploring a Real-World Dataset (EDA) | [Code](Day1.py) |
 | 2 | Advanced Data Cleaning & Imputation | |
 | 3 | Data Storytelling with Visualization | |
 | 4 | First Predictive Model: Logistic Regression | |
