@@ -13,7 +13,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 |:---:|:---|:---:|
 | 1 | Exploring a Real-World Dataset (EDA) | [Code](Day1.py) |
 | 2 | Advanced Data Cleaning & Imputation | [Code](Day2.py) |
-| 3 | Data Storytelling with Visualization | |
+| 3 | Data Storytelling with Visualization | [Code](Day3.py) |
 | 4 | First Predictive Model: Logistic Regression | |
 | 5 | Classification with K-Nearest Neighbors (KNN) | |
 | 6 | Visualizing a Decision Tree "Brain" | |
