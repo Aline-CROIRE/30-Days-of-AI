@@ -15,7 +15,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 | 2 | Advanced Data Cleaning & Imputation | [Code](Day2.py) |
 | 3 | Data Storytelling with Visualization | [Code](Day3.py) |
 | 4 | First Predictive Model: Logistic Regression | [code](Day4.py) |
-| 5 | Classification with K-Nearest Neighbors (KNN) | |
+| 5 | Classification with K-Nearest Neighbors (KNN) |[code](Day5.py) |
 | 6 | Visualizing a Decision Tree "Brain" | |
 | 7 | Predicting Housing Prices with Regression | |
 
