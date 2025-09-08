@@ -17,7 +17,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 | 4 | First Predictive Model: Logistic Regression | [code](Day4.py) |
 | 5 | Classification with K-Nearest Neighbors (KNN) |[code](Day5.py) |
 | 6 | Visualizing a Decision Tree "Brain" |[code](Day6.py)|
-| 7 | Predicting Housing Prices with Regression | |
+| 7 | Predicting Housing Prices with Regression |[code](Day7.py) |
 
 ### Week 2: Working with Text and Images
 
