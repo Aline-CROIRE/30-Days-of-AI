@@ -23,8 +23,8 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 
 | Day | Topic | Link to Code |
 |:---:|:---|:---:|
-| 8 | NLP: Basic Sentiment Analysis | |
-| 9 | NLP: Building a Spam Detector with TF-IDF | |
+| 8 | NLP: Basic Sentiment Analysis |[code](Day8.py) |
+| 9 | NLP: Building a Spam Detector with TF-IDF |[Code](Day9.py) |
 | 10 | NLP: Generating a Word Cloud | |
 | 11 | CV: Image Classification with Transfer Learning | |
 | 12 | CV: Detecting Faces, Age & Emotion | |
