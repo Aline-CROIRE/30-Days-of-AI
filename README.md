@@ -26,7 +26,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 | 8 | NLP: Basic Sentiment Analysis |[code](Day8.py) |
 | 9 | NLP: Building a Spam Detector with TF-IDF |[Code](Day9.py) |
 | 10 | NLP: Generating a Word Cloud |[Code](Day10.py) |
-| 11 | CV: Image Classification with Transfer Learning | |
+| 11 | CV: Image Classification with Transfer Learning |[Code](Day11.py) |
 | 12 | CV: Detecting Faces, Age & Emotion | |
 | 13 | CV: Extracting Text from Images (OCR) | |
 | 14 | CV: Finding Dominant Colors with K-Means | |
