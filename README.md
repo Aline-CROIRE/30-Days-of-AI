@@ -27,8 +27,8 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 | 9 | NLP: Building a Spam Detector with TF-IDF |[Code](Day9.py) |
 | 10 | NLP: Generating a Word Cloud |[Code](Day10.py) |
 | 11 | CV: Image Classification with Transfer Learning |[Code](Day11.py) |
-| 12 | CV: Detecting Faces, Age & Emotion | |
-| 13 | CV: Extracting Text from Images (OCR) | |
+| 12 | CV: Detecting Faces, Age & Emotion | [Code](Day12.py)|
+| 13 | CV: Extracting Text from Images (OCR) |[Code](Day13.py)  |
 | 14 | CV: Finding Dominant Colors with K-Means | |
 
 ### Week 3: Deep Learning Fundamentals
