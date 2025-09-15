@@ -29,7 +29,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 | 11 | CV: Image Classification with Transfer Learning |[Code](Day11.py) |
 | 12 | CV: Detecting Faces, Age & Emotion | [Code](Day12.py)|
 | 13 | CV: Extracting Text from Images (OCR) |[Code](Day13.py)  |
-| 14 | CV: Finding Dominant Colors with K-Means | |
+| 14 | CV: Finding Dominant Colors with K-Means |[Code](Day14.py) |
 
 ### Week 3: Deep Learning Fundamentals
 
