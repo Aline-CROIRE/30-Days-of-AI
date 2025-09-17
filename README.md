@@ -35,7 +35,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 
 | Day | Topic | Link to Code |
 |:---:|:---|:---:|
-| 15 | Building a Neural Net from Scratch | |
+| 15 | Building a Neural Net from Scratch |[Code](Day15.py) |
 | 16 | Building a NN with Keras (Regularization & Callbacks) | |
 | 17 | CNNs for Image Classification | |
 | 18 | RNNs/LSTMs for Sequence Data | |
