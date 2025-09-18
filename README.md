@@ -37,7 +37,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 |:---:|:---|:---:|
 | 15 | Building a Neural Net from Scratch |[Code](Day15.py) |
 | 16 | Building a NN with Keras (Regularization & Callbacks) |[Code](Day16.py) |
-| 17 | CNNs for Image Classification | |
+| 17 | CNNs for Image Classification |[Code](Day17.py) |
 | 18 | RNNs/LSTMs for Sequence Data | |
 | 19 | Advanced Transfer Learning & Fine-Tuning | |
 | 20 | Unsupervised DL: Autoencoders for Anomaly Detection | |
