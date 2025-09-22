@@ -41,7 +41,7 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 | 18 | RNNs/LSTMs for Sequence Data |[Code](Day18.py) |
 | 19 | Advanced Transfer Learning & Fine-Tuning |[Code](Day19.py) |
 | 20 | Unsupervised DL: Autoencoders for Anomaly Detection | [Code](Day20.py)|
-| 21 | Generative AI: Building a GAN | |
+| 21 | Generative AI: Building a GAN |[Code](Day21.py)|
 
 ### Week 4: Advanced AI Topics and Projects
 
