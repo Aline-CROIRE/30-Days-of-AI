@@ -38,9 +38,9 @@ Below is the day-by-day log of my progress. Each entry links to the correspondin
 | 15 | Building a Neural Net from Scratch |[Code](Day15.py) |
 | 16 | Building a NN with Keras (Regularization & Callbacks) |[Code](Day16.py) |
 | 17 | CNNs for Image Classification |[Code](Day17.py) |
-| 18 | RNNs/LSTMs for Sequence Data | |
-| 19 | Advanced Transfer Learning & Fine-Tuning | |
-| 20 | Unsupervised DL: Autoencoders for Anomaly Detection | |
+| 18 | RNNs/LSTMs for Sequence Data |[Code](Day18.py) |
+| 19 | Advanced Transfer Learning & Fine-Tuning |[Code](Day19.py) |
+| 20 | Unsupervised DL: Autoencoders for Anomaly Detection | [Code](Day20.py)|
 | 21 | Generative AI: Building a GAN | |
 
 ### Week 4: Advanced AI Topics and Projects
