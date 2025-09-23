@@ -1,14 +1,4 @@
-# full_corrected_flowers_resnet50_gradcam.py
-# --- 0. Notes ---
-# - Restart your kernel if you recently changed TensorFlow / Keras installations.
-# - This script expects tensorflow, tensorflow_datasets, numpy, matplotlib to be installed.
-# - If you encounter environment issues (e.g., Keras import errors, RecursionError):
-#   1. Run 'pip uninstall keras' (if you installed it separately).
-#   2. Run 'pip install tf-keras'.
-#   3. IMPORTANT: Restart your Python kernel or environment completely.
-#   4. If issues with tfds persist: 'pip uninstall tensorflow-datasets; pip install tensorflow-datasets; restart.'
 
-# --- 1. Imports & Setup ---
 import os
 import numpy as np
 import matplotlib.pyplot as plt
